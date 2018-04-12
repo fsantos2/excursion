@@ -2,11 +2,35 @@ h1{
   font-family: veranda;
   font-weight: noraml;
   font-size: 50px;
-  color: orange;
+  color: white;
   text-align: center;
 }
 
 body{
   background-color: black;
   text-align: center;
+}
+
+#link{
+  color: aquamarine;
+  font-size: 16px;
+}
+
+h2,
+h3{
+  font-family: veranda;
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+
+p{
+  font-family: veranda;
+  font-size: 21px;
+  color: gray;
+}
+
+#excursion{
+  text-align: right;
+  color: gray;
 }
